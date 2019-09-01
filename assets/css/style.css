@@ -1,0 +1,33 @@
+.body {
+    align-content: center;
+    background-image: url("../images/the-office-desktop-wallpaper.jpg")
+    
+    
+    }
+    
+    .container {
+        box-align: center;
+        text-emphasis-color: white;
+    
+        
+        }
+        
+    .jumbotron {
+        align-content: center;
+    
+    }
+    
+    .timer {
+        text-align: center;
+        background-color: darkgoldenrod;
+    }
+    
+    .body {
+        font: white;
+    
+    }
+    #one {
+        background-color: beige;
+        
+    }
+    
